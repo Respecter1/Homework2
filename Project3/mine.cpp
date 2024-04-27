@@ -1,5 +1,5 @@
 
-// 3. Ошибки: Войдите в эту программу и скомпилируйте ее.Почему он вылетает ? Как это исправить ?
+// 3. Errors: Enter this program and compile it. Why does it crash? How to fix it ?
 
 #include <iostream>
 using namespace std;
@@ -7,9 +7,9 @@ using namespace std;
 int main()
 {
 
-	// в данній программі було 2 помилки:
-	// 1. помилка - додав лапки навколо рядка "Is there a bug here?".
-	// 2. помилка - рядок не закінчувався крапокой з комою.
+	// there were 2 errors in this program:
+	// 1. bug - added quotes around the line "Is there a bug here?".
+	// 2. error - the line did not end with a comma.
 
 	cout << "Is there a bug here ? ";
 
