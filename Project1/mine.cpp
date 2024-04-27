@@ -10,7 +10,7 @@ int main()
 
 	std::cout << "Я кохаю С++" <<std::endl;
 	// вивід на екран 
-	std::cout << "Я люблю С++" << std::endl;
+	std::cout << "Я люблю С++++++" << std::endl;
 	// вивід на російській 
 
 	return 0;
